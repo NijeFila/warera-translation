@@ -1531,11 +1531,11 @@ msgstr "Kaujas"
 
 #: src/components/_layout/LayoutMapOptions.tsx:253
 msgid "Battles on layout"
-msgstr "Kauju lodziņi virs kartes"
+msgstr "Kauju panelis"
 
 #: src/components/_layout/LayoutMapOptions.tsx:246
 msgid "Battles on map"
-msgstr "Kaujas kartē"
+msgstr "Kauju lodziņi kartē"
 
 #: src/components/_military/war/WarItem.tsx:46
 #: src/components/_military/war/WarItem.tsx:80
